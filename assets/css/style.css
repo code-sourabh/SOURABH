@@ -553,7 +553,7 @@ section #services li div {
   transition: all 0.5s ease;
 }
 section #services li a {
-  color: #77cc6d;
+  color: #1e68f1;
 }
 section #services li div:hover {
   transform: rotate(360deg);
